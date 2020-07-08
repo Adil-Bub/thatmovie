@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thatmovie/static/css/main.dc41ed92.chunk.css",
+    "main.js": "/thatmovie/static/js/main.8607ad17.chunk.js",
+    "main.js.map": "/thatmovie/static/js/main.8607ad17.chunk.js.map",
+    "runtime-main.js": "/thatmovie/static/js/runtime-main.03caf5a5.js",
+    "runtime-main.js.map": "/thatmovie/static/js/runtime-main.03caf5a5.js.map",
+    "static/js/2.67f91546.chunk.js": "/thatmovie/static/js/2.67f91546.chunk.js",
+    "static/js/2.67f91546.chunk.js.map": "/thatmovie/static/js/2.67f91546.chunk.js.map",
+    "index.html": "/thatmovie/index.html",
+    "precache-manifest.7d0e75c55caaef3e403c5c21f7fb91de.js": "/thatmovie/precache-manifest.7d0e75c55caaef3e403c5c21f7fb91de.js",
+    "service-worker.js": "/thatmovie/service-worker.js",
+    "static/css/main.dc41ed92.chunk.css.map": "/thatmovie/static/css/main.dc41ed92.chunk.css.map",
+    "static/js/2.67f91546.chunk.js.LICENSE.txt": "/thatmovie/static/js/2.67f91546.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03caf5a5.js",
+    "static/js/2.67f91546.chunk.js",
+    "static/css/main.dc41ed92.chunk.css",
+    "static/js/main.8607ad17.chunk.js"
+  ]
+}
